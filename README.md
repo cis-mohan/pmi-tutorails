@@ -10,13 +10,23 @@ The Project Communications Management processes are as follows:
 
 Most communication skills are common for both general management and project management, such as, but not limited to:
 • Listening actively and effectively;
+
 • Questioning and probing ideas and situations to ensure better understanding;
+
 • Educating to increase team's knowledge so that they can be more effective;
+
 • Fact-finding to identify or confirm information;
+
 • Setting and managing expectations;
+
 • Persuading a person, a team, or an organization to perform an action;
+
 • Motivating to provide encouragement or reassurance;
+
 • Coaching to improve performance and achieve desired results;
+
 • Negotiating to achieve mutually acceptable agreements between parties;
+
 • Resolving conflict to prevent disruptive impacts; and
+
 • Summarizing, recapping, and identifying the next steps.
