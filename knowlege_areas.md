@@ -69,4 +69,17 @@
 	Perform Quality assurance
 	
 	Control Quality
+	
+7) Project Human Resource Management
+
+	Develop human resource plan
+	
+	Acquire project team
+	
+	Develop project team
+	
+	Manage project team
+	
+	
+
 
