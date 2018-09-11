@@ -79,6 +79,18 @@
 	Develop project team
 	
 	Manage project team
+
+8) Project Communications Management
+	
+	Plan Communications Management
+	
+	Manage Communications
+	
+	Control Communications
+	
+9) Project Risk Management
+
+10) Project Procurement Management
 	
 	
 
