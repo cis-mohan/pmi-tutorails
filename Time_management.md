@@ -7,3 +7,5 @@ https://usersnap.com/blog/productivity-tips-web-developers-efficient-time-manage
 https://www.codeproject.com/Articles/11502/Time-Management-Tips-for-Developers
 
 https://www.forbes.com/sites/forbestechcouncil/2016/10/17/eight-time-management-tips-for-software-developers/#98c450965abe
+
+https://expertise.jetruby.com/time-management-for-developers-control-your-life-9151d7c24967
