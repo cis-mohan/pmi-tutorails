@@ -11,3 +11,6 @@ https://www.forbes.com/sites/forbestechcouncil/2016/10/17/eight-time-management-
 https://expertise.jetruby.com/time-management-for-developers-control-your-life-9151d7c24967
 
 https://itexico.com/blog/how-to-time-management-in-software-development-and-project-management
+
+
+https://reallifee.com/wp/11-time-management-habits-increase-daily-productivity
